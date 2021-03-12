@@ -68,3 +68,5 @@ print("99% done..")
 time.sleep(2)
 print("Writing complete!")
 csv_file.close()
+
+# check
